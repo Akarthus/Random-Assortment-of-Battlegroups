@@ -1,8 +1,8 @@
 Changelog
 v1.2.1: Added support for version checker (2025/09/02)
 
-v1.2.0: Added Mora (IV) and 
-  Balance Change: (2025/8/23)
+v1.2.0: Added Mora (IV)  (2025/8/23)
+  Balance Change:
     Trident (IV) Added Build-In Hullmod: Ill-advised Modification
 v1.1.0: Added Legion (IV) and Trident (IV) (2025/7/30)
 
