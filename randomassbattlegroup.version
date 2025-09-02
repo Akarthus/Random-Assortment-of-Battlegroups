@@ -8,6 +8,6 @@
         "minor":2,
         "patch":1,
     },
-    "changelogURL":"https://github.com/Akarthus/Random-Assortment-of-Battlegroups/blob/main/changelog.txt"
+    "changelogURL":"https://raw.githubusercontent.com/Akarthus/Random-Assortment-of-Battlegroups/refs/heads/main/changelog.txt"
 
 }
