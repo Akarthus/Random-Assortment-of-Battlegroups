@@ -1,5 +1,5 @@
 Changelog
-v1.2.2: Redone the III Battlegroup's color
+v1.2.2: Redone the III Battlegroup's color (2025/10/08)
 
 v1.2.1: Added support for version checker (2025/09/02)
 
