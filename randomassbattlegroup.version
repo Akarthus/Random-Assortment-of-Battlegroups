@@ -6,7 +6,7 @@
     {
         "major":1,
         "minor":3,
-        "patch":0,
+        "patch":1,
     },
     "changelogURL":"https://raw.githubusercontent.com/Akarthus/Random-Assortment-of-Battlegroups/refs/heads/main/changelog.txt"
 
