@@ -1,4 +1,9 @@
 Changelog
+v1.4.0: Updated for Starsector 0.98.5a-RC4. (2026/11/11)
+  Balance Change:
+    Dominator (III) Added the DO_NOT_TURN_TO_ARMOR AI hint; Crew Salary Multiplier: 0.75x
+    Legion (IV) Crew Salary Multiplier: 0.5x
+
 v1.3.1: Added several paint jobs made by Morgan_Red21 (Require Magiclib)
 
 v1.3.0: Added Cerberus (IV) and Talon (IV)
